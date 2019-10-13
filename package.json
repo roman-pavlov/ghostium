@@ -1,7 +1,7 @@
 {
-  "name": "Ghostium",
-  "version": "2.3.2",
-  "description": "A Ghost theme focused on content based on Medium design/ux",
+  "name": "ghostium",
+  "version": "2.4.0",
+  "description": "A Ghost theme focused on content based on Medium design/ux compatible with Ghost 2.0",
   "url": "http://ghostium.oswaldoacauan.com/",
   "copyright": "2013",
   "license": "MIT",
